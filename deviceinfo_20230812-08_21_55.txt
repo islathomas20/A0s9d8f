@@ -1,0 +1,290 @@
+------Device Info------
+date: 20230812-08:21:55
+author: com.liuzh.deviceinfo
+version: v2.9.5(277)
+
+---------Device---------
+Device name: Blade A30
+Model: Blade A30
+Manufacturer: ZTE
+Device: Z3052T
+Board: sp9832e_1h10_go
+Hardware: sp9832e_1h10_go
+Brand: ZTE
+
+Google Services Framework ID: 3F50A1E006F78C5B
+Google Advertising ID: 40a7bb6c-13b9-4661-95e9-55f7dad4d766
+Android Device ID: bce94d295b73fb83
+Hardware serial: unknown
+Build fingerprint: ZTE/Z3052T/Z3052T:11/RP1A.201005.001/20230509.210422:user/release-keys
+Device type: GSM
+Network operator: Telstra
+Network Type: 15
+WiFi MAC address: Unknown
+Bluetooth MAC address: Unknown
+
+---------System---------
+Version name: Android 11 R
+API Level: 30
+Build number: Blade A30_M11
+Build Time: 09 May 2023 23:35:15 AEST
+Build ID: RP1A.201005.001
+Security patch level: 2023-05-05
+Boot Loader: unknown
+Baseband: 4G_MODEM_20A_W20.47.1_P11|sc9832e_modem
+Language: English (Australia)
+Time zone: Australian Eastern Standard Time(GMT+10:00)
+Root access: No
+System uptime: 165:56:59
+
+Java Runtime: Android Runtime 0.9
+Java VM: ART 2.1.0
+Java VM stack size: 134 MB
+Kernel architecture: armv7l
+Kernel version: 134 MB
+OpenGL ES: 3.2
+SELinux: Unable to determine
+OpenSSL Version: OpenSSL 1.1.0 (compatible; BoringSSL)
+
+--DRM--
+Vendor: Google
+Version: 16.0.0
+Description: Widevine CDM
+Algorithm: AES/CBC/NoPadding,HmacSHA256
+Security level: L3
+System id: 8158
+HDCP level: Unprotected
+Max HDCP level: Unprotected
+Usage reporting support: True
+Max Number of sessions: 15
+Number of open sessions: 0
+
+---------CPU---------
+Hardware: Unisoc SC9832E
+Cores: 4
+CPU frequency: 768MHz - 1400MHz
+Core 1: 1400 Mhz
+Core 2: 1400 Mhz
+Core 3: 1400 Mhz
+Core 4: 1400 Mhz
+SOC: UNISOC SC9832E
+Processor: ARMv8 Processor
+Supported ABIs: armeabi-v7a, armeabi
+CPU hardware: Unisoc SC9832E
+CPU governor: interactive
+
+GPU renderer: Mali-T820
+GPU vendor: ARM
+GPU version: 3.2 OpenGL ES-CM 1.1 v1.r28p0-01rel0.f824eff111575c5ed61c9e0592018f55
+
+---------Network---------
+
+--WIFI--
+WiFi Direct: Supported
+
+--Mobile data--
+Multi SIM: Not supported
+Device type: GSM
+Cell Identifier: -1
+Tracking area code: -1
+
+---------Storage---------
+
+--RAM--
+Used: 495.0 MB
+Total: 887.0 MB
+
+--System storage--
+Path: /system
+Used: 0.8 GB
+Total: 0.8 GB
+File system: ext4
+
+--Internal Storage--
+Path: /data
+Used: 12.8 GB
+Total: 25.7 GB
+File system: f2fs
+
+--Internal Storage--
+Path: /storage/emulated/0
+Used: 12.8 GB
+Total: 25.7 GB
+File system: 
+
+---------Battery---------
+Capacity(System data): 2000.0 mAh
+Health: Good
+Level: 17%
+Status: Charging
+Power Source: AC
+Technology: Li-ion
+Temperature: 37.5℃
+Voltage: 3757 mV
+
+---------Display---------
+Name: Built-in Screen
+Screen height: 960 px
+Screen width: 480 px
+Refresh rate: 59.00 fps
+Screen size: Normal Screen
+Physical size: 4.94  inches
+Orientation: Portrait
+Brightness mode: Manual
+Screen timeout: 120 Seconds
+
+Display bucket: hdpi
+Display dpi: 240 dpi
+xdpi: 217.094 dpi
+ydpi: 217.094 dpi
+Logical density: 1.50
+Scaled density: 1.50
+Font scale: 1.00
+
+---------Camera---------
+
+--5.0 MP - Back--
+Resolution: 2592x1944
+Focal Lengths: 4.222 mm
+Aberration Modes: Fast, High Quality
+Antibanding Modes: Off, 50Hz, 60Hz, Auto
+Auto Exposure Modes: Off, On, Auto Flash, Always Flash
+Target FPS Ranges: [10,10], [5,15], [15,15], [5,20], [20,20], [5,24], [24,24], [5,30], [20,30], [30,30]
+Compensation Range: [-32,32]
+Compensation Step: 1/16
+AutoFocus Modes: Off
+Effects: Off, Mono, Negative, Solarize, Sepia, Aqua
+Scene Modes: Face Priority, Night, Action, Portrait, Landscape, High Speed Video, HDR
+Video Stabilization Modes: Off
+Auto White Balance Modes: Off, Auto, Incandescent, Fluorescent, Daylight, Cloudy Daylight
+Maximum Auto Exposure Regions: 1
+Maximum Auto Focus Regions: 0
+Maximum Auto White Balance Regions: 0
+Edge Modes: Off, Fast, High Quality
+Flash Available: Yes
+Hardware Level: Limited
+Thumbnail Sizes: 0 x 0
+256 x 144
+288 x 144
+304 x 144
+240 x 240
+320 x 240
+432 x 288
+Lens Placement: Back
+Apertures: 1.79, 1.8, 2.0, 2.2, 2.4, 2.45, 2.6, 2.8, 3.0
+Filter Densities: 0.0
+Focal Lengths: 4.222mm
+Optical Stabilization: Off
+Focus Distance Calibration: Uncalibrated
+Camera Capabilities: Backward Compatible, Burst Capture
+Maximum Output Streams: 2
+Maximum Output Streams Stalling: 1
+Maximum RAW Output Streams: 0
+Partial Results: 1
+Maximum Digital Zoom: 2.0
+Cropping Type: Freeform
+Supported Resolutions: 5.04 MP - 2592 x 1944
+3.36 MP - 2592 x 1296
+3.17 MP - 2592 x 1224
+4.92 MP - 2560 x 1920
+3.69 MP - 2560 x 1440
+4.04 MP - 2320 x 1740
+3.98 MP - 2304 x 1728
+2.45 MP - 2272 x 1080
+2.33 MP - 2160 x 1080
+3.15 MP - 2048 x 1536
+2.36 MP - 2048 x 1152
+2.07 MP - 1920 x 1080
+1.92 MP - 1600 x 1200
+1.56 MP - 1440 x 1080
+0.92 MP - 1280 x 720
+0.69 MP - 960 x 720
+0.48 MP - 800 x 600
+0.35 MP - 720 x 480
+0.31 MP - 640 x 480
+0.10 MP - 352 x 288
+0.08 MP - 320 x 240
+Test Pattern Modes: Off, Off, Off, Off, Off, Off
+Color Filter Arrangement: RGGB
+Sensor Size: 4.61 x 3.44
+Pixel Array Size: 2592 x 1944
+Timestamp Source: Realtime
+Orientation: 90 deg
+Face Detection Modes: Off, Simple
+
+--1.9 MP - Front--
+Resolution: 1600x1200
+Focal Lengths: 2.39 mm
+Aberration Modes: Fast, High Quality
+Antibanding Modes: Off, 50Hz, 60Hz, Auto
+Auto Exposure Modes: Off, On
+Target FPS Ranges: [5,15], [15,15], [5,20], [20,20], [5,30], [15,30], [20,30], [30,30]
+Compensation Range: [-32,32]
+Compensation Step: 1/16
+AutoFocus Modes: Off
+Effects: Off, Mono, Negative, Solarize, Sepia, Aqua
+Scene Modes: Face Priority, Night, Action, Portrait, Landscape, High Speed Video, HDR
+Video Stabilization Modes: Off
+Auto White Balance Modes: Off, Auto, Incandescent, Fluorescent, Daylight, Cloudy Daylight
+Maximum Auto Exposure Regions: 1
+Maximum Auto Focus Regions: 0
+Maximum Auto White Balance Regions: 0
+Edge Modes: Off, Fast, High Quality
+Flash Available: No
+Hardware Level: Limited
+Thumbnail Sizes: 0 x 0
+256 x 144
+288 x 144
+304 x 144
+240 x 240
+320 x 240
+432 x 288
+Lens Placement: Front
+Apertures: 1.79, 1.8, 2.0, 2.2, 2.4, 2.45, 2.6, 2.8, 3.0
+Filter Densities: 0.0
+Focal Lengths: 2.39mm
+Optical Stabilization: Off
+Focus Distance Calibration: Uncalibrated
+Camera Capabilities: Backward Compatible, Burst Capture
+Maximum Output Streams: 2
+Maximum Output Streams Stalling: 1
+Maximum RAW Output Streams: 0
+Partial Results: 1
+Maximum Digital Zoom: 2.0
+Cropping Type: Freeform
+Supported Resolutions: 1.92 MP - 1600 x 1200
+1.56 MP - 1440 x 1080
+0.92 MP - 1280 x 720
+0.69 MP - 960 x 720
+0.48 MP - 800 x 600
+0.35 MP - 720 x 480
+0.31 MP - 640 x 480
+0.10 MP - 352 x 288
+0.08 MP - 320 x 240
+Test Pattern Modes: Off, Off, Off, Off, Off, Off
+Color Filter Arrangement: RGGB
+Sensor Size: 2.73 x 2.05
+Pixel Array Size: 1600 x 1200
+Timestamp Source: Realtime
+Orientation: 270 deg
+Face Detection Modes: Off, Simple
+
+---------Temperature---------
+
+---------Sensors---------
+
+--ACCELEROMETER--
+Vendor : NATIVE_SENSORTECK
+1 acc name:STK8BAXX 3-axis Accelerometer
+Wake Up Sensor : No
+Power : 0.145mA
+
+--PROXIMITY--
+Vendor : TP_Proximity
+TP Proximity Sensor
+Wake Up Sensor : Yes
+Power : 0.005mA
+
+---------Apps---------
+System apps: 243
+User apps: 16
